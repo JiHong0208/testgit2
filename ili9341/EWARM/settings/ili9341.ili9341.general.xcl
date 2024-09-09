@@ -1,0 +1,15 @@
+"D:\arm\bin\armPROC.dll" 
+
+"D:\arm\bin\armSTLINK.dll" 
+
+"D:\Desktop\123\ili9341\EWARM\ili9341\Exe\ili9341.out" 
+
+--plugin="D:\arm\bin\armbat.dll" 
+
+--device_macro="D:\arm/config/debugger/ST/STM32F1xx.dmac" 
+
+--flash_loader="D:\arm/config/flashloader/ST/FlashSTM32F10xxE.board" 
+
+
+
+

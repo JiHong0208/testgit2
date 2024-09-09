@@ -1,0 +1,32 @@
+D:\Desktop\123\ili9341\EWARM\ili9341\BrowseInfo\Drivers\STM32F1xx_HAL_Driver\stm32f1xx_hal_tim_ex.pbi: \
+  D:\Desktop\123\ili9341\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h \
+  D:\Desktop\123\ili9341\EWARM\..\Core\Inc\stm32f1xx_hal_conf.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\CMSIS\Include\core_cm3.h \
+  D:\arm\inc\c\stdint.h D:\arm\inc\c\ycheck.h D:\arm\inc\c\yvals.h \
+  D:\arm\inc\c\DLib_Defaults.h D:\arm\inc\c\DLib_Config_Full.h \
+  D:\arm\inc\c\DLib_Product.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  D:\arm\inc\c\aarch32\iccarm_builtin.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  D:\arm\inc\c\stddef.h D:\arm\inc\c\ysizet.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_exti.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_sram.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_ll_fsmc.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h \
+  D:\Desktop\123\ili9341\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h
